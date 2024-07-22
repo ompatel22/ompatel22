@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Patel</h1>
-<h3 align="center">2nd Year IT Student | In the World of Bits and Bytes</h3>
+<h3 align="center">3rd Year IT Student | In the World of Bits and Bytes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompatel22&label=Profile%20views&color=0e75b6&style=flat" alt="ompatel22" /> </p>
 <img align="right" alt="Coding GIF" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
