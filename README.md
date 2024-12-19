@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/om-patel-22122004u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om patel" height="30" width="40" /></a>
 <a href="https://instagram.com/om._.2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om._.2212" height="30" width="40" /></a>
-<a href="[https://www.codechef.com/users/omupatel22](https://www.codechef.com/users/ompatel22)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omupatel22" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ompatel22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omupatel22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omupatel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omupatel22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ompatel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ompatel22" height="30" width="40" /></a>
 <a href="https://discord.gg/om_patel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="om_patel22" height="30" width="40" /></a>
