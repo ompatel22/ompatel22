@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Patel</h1>
+<h1 align="center">Hi 👋, I'm Om Patel 🚀</h1>
 <h3 align="center">3rd Year IT Student | In the World of Bits and Bytes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompatel22&label=Profile%20views&color=0e75b6&style=flat" alt="ompatel22" /> </p>
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, WebDev**
 
-- 📫 How to reach me **omupatel22@gmail.com**
+- 📫 How to reach me **omupatel22@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
