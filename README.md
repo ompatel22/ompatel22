@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompatel22&label=Profile%20views&color=0e75b6&style=flat" alt="ompatel22" /> </p>
 <img align="right" alt="Coding GIF" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-- 🌱 I’m currently learning **DSA, WebDev**
-
 - 📫 How to reach me **omupatel22@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
