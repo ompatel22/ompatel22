@@ -5,7 +5,7 @@
 <img align="right" alt="Coding GIF" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 📫 How to reach me: **omupatel22@gmail.com**
-- 🌟 Portfolio Website: https://ompatel22.vercel.app
+- 🌟 Portfolio website: https://ompatel22.vercel.app
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
